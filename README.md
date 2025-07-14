@@ -71,26 +71,18 @@ Because:
 
 ## 📈 Suggested Roadmap: Brand-Led Growth
 
-| Phase       | Key Actions                                                                                                   |
-|-------------|----------------------------------------------------------------------------------------------------------------|
-| Months 1–2  | **Phase Title:** Awareness Breakthrough  
-**Objective:** Educate users about TOU pricing and position Optiwatt as the simple solution  
-• Launch campaign: “Stop Wasting Money on Charging”  
-• Visual content that explains TOU in 30 seconds  
-• Tested by Drivers, Not Just Developers” series: Partner with local EV influencers to record walkthroughs of their Optiwatt setup and results, 
-  titled: “How I Saved $213 on Charging This Month (Using This Free App).
+| Phase       | Key Actions |
+|-------------|-------------|
+| Months 1–2  | “Stop Wasting Money on Charging” campaign  
+- Educational content on TOU savings  
+- Collaborate with EV influencers on social media |
+| Months 3–5  | Referral flywheel  
+- In-app rewards for sharing  
+- Personalized charging savings stats |
+| Months 6–12 | Utility co-marketing  
+- Localized campaigns ("Charge Clean in California")  
+- Build credibility with case studies and usage proof |
                                                                                                                 |
-| Months 3–5  | **Phase Title:** Community Flywheel - Referral Reward (Social Media)  
-**Objective:** Turn early adopters into advocates through referral mechanics and impact tracking  
-• Post your charging savings on social — every friend who joins earns you free bonus miles or entries to win a home charger.
-• Encourage social proof: “You + 4 friends saved 800kg of CO₂”  
-                                                                                                                |
-| Months 6–12 | **Phase Title:** Regional Trust Building  
-**Objective:** Build credibility and loyalty through utility partnerships and localized campaigns  
-• Partner with utilities for co-branded TOU education  
-• Localize campaigns: “Charge Clean in California” / “Texas Drives Off-Peak”  
-                                                                                                                 |
-
 ---
 
 ## 📌 Impact Forecast (Hypothetical)
