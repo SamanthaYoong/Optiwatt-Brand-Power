@@ -1,7 +1,7 @@
-# 🟩 Charging Awareness, Not Just Batteries  
+#  Charging Awareness, Not Just Batteries  
 ### Why Brand Power is Optiwatt’s Most Underrated Advantage
 
-> 📁 A strategic case study exploring how Optiwatt can accelerate adoption by prioritizing brand-led growth in an early, awareness-starved EV charging market.
+>  A strategic case study exploring how Optiwatt can accelerate adoption by prioritizing brand-led growth in an early, awareness-starved EV charging market.
 
 ---
 
@@ -19,7 +19,7 @@ This case study argues that **brand power and trust-building** are Optiwatt’s 
 
 ---
 
-## 🚨 The Problem
+## 📌 The Problem
 
 Despite rising EV adoption, many drivers:
 - Charge at expensive, high-emission peak hours
@@ -30,7 +30,7 @@ Yet the “smart charging” category remains largely **unknown and unbranded** 
 
 ---
 
-## 📊 Market & Behavioral Snapshot
+## 📌 Market & Behavioral Snapshot
 
 | Segment               | Uses Native App | Aware of TOU | Uses Smart EV App |
 |-----------------------|------------------|--------------|--------------------|
@@ -41,7 +41,7 @@ Yet the “smart charging” category remains largely **unknown and unbranded** 
 
 ---
 
-## 🧭 Competitive Positioning
+## 📌 Competitive Positioning
 
 | Brand        | Feature Depth | Brand Awareness | Strategic Focus          |
 |--------------|----------------|------------------|---------------------------|
@@ -54,7 +54,7 @@ Yet the “smart charging” category remains largely **unknown and unbranded** 
 
 ---
 
-## 🎯 Strategic Opportunity
+## 📌 Strategic Opportunity
 
 ### Instead of:
 > Racing to match feature arms with competitors like ev.energy or Charge HQ...
@@ -85,7 +85,7 @@ Because:
 
 ---
 
-## 🔁 Impact Forecast (Hypothetical)
+## 📌 Impact Forecast (Hypothetical)
 
 | Metric                  | Current     | After Brand-Led Push |
 |------------------------|-------------|-----------------------|
@@ -95,7 +95,7 @@ Because:
 
 ---
 
-## 🧠 Closing Thought
+## 📌 Closing Thought
 
 > Optiwatt already has the tech — now it’s time to **lead the EV narrative.**  
 >  
@@ -105,17 +105,17 @@ Because:
 
 ---
 
-## 👤 Case Author
+## 📌 Case Author
 
 **Samantha Yoong**  
 *Aspiring product & growth analyst focused on clean tech, user psychology, and systems thinking.*  
-📬 [LinkedIn](https://linkedin.com/in/your-link) | [Portfolio](https://yourportfolio.com)
+📬 [LinkedIn](www.linkedin.com/in/samantha-yoong-8551b4226) | [Portfolio](https://samanthayoong.github.io/)
 
 ---
 
 ## 🗂 Related Projects
 
-- 📈 [Case Study: Netflix LTV Optimization](#)
+- 📈 [Case Study: Netflix LTV Optimisation](#)
 - 🚘 [Case Study: A/B Testing EV Livestream Conversions](#)
 - 📊 [SaaS Funnel Conversion Dashboard](#)
 
