@@ -109,7 +109,6 @@ Because:
 
 **Samantha Yoong**  
 *Aspiring product & growth analyst focused on clean tech, user psychology, and systems thinking.*  
-📬 [LinkedIn](www.linkedin.com/in/samantha-yoong-8551b4226) | [Portfolio](https://samanthayoong.github.io/)
 
 ---
 
