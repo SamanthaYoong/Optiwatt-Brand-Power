@@ -1,7 +1,7 @@
 #  Charging Awareness, Not Just Batteries  
 ### Why Brand Power is Optiwatt’s Most Underrated Advantage
 
->  A strategic case study exploring how Optiwatt can accelerate adoption by prioritizing brand-led growth in an early, awareness-starved EV charging market.
+>  📌 A strategic case study exploring how Optiwatt can accelerate adoption by prioritizing brand-led growth in an early, awareness-starved EV charging market.
 
 ---
 
